@@ -1,6 +1,6 @@
-## Descrição
+## DescriÃ§Ã£o
 
-Projeto feito para ajudar na aula de matemática sobre Correlções Exponenciais.
-Mostra os diferentes calculos utilizados para a resolução da fórmula.
+Projeto feito para ajudar na aula de matemÃ¡tica sobre CorrelaÃ§Ãµes Exponenciais.
+Mostra os diferentes calculos utilizados para a resoluÃ§Ã£o da fÃ³rmula.
 
-Foi desenvolvido para Android, para facilitar a utilização.
+Foi desenvolvido para Android, para facilitar a utilizaÃ§Ã£o.
